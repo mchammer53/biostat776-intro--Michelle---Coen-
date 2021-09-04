@@ -1,7 +1,6 @@
 ---
 title: "Introducing Michelle"
 author: "Michelle Coen"
-date: "8/31/2021"
 output: html_document
 ---
 
